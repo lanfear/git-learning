@@ -17,3 +17,4 @@ git day training 2015-01
 ## Tips
 * 't' in web interface brings up file finder
 * create new branch by typing it's name in the branch dropdown selector
+* git checkout --theirs or git checkout --ours when resolving conflicts to see complete versions of both files
