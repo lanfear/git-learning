@@ -11,6 +11,7 @@ git day training 2015-01
 ## Notes
 * what do .gitignore templates have that we may not
 * set up teams in github
+* autocrlf = input on mac/linux, true on window
 
 ## Tips
 * 't' in web interface brings up file finder
