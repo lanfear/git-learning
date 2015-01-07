@@ -12,6 +12,7 @@ git day training 2015-01
 * what do .gitignore templates have that we may not
 * set up teams in github
 * autocrlf = input on mac/linux, true on window
+* git diff --staged will show changes to staged/'added' files
 
 ## Tips
 * 't' in web interface brings up file finder
